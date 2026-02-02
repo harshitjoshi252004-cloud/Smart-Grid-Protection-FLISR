@@ -43,5 +43,4 @@ This repository contains the following source files:
 *(Please refer to the `Dashboard.pdf` file for high-resolution charts and graphs)*
 
 ## 🤝 Contact
-* **Author:** [Your Name]
-* **LinkedIn:** [Your LinkedIn Profile Link]
+* **Author:** [Harshit Joshi]
